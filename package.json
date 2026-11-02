@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-httpstatus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "HTTP status code reference MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "httpstatus",
     "gatewaySlug": "httpstatus",
-    "sourceHash": "v1-e7d2386fc8690f5edd0c94a409735d9bc926635f7459ad32d6f608c3eb38a6ee",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-b2ed537b59b6801a121d59dce699c8aa2ebd16d3f71155510b0f4ad2ea749e57",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
